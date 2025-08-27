@@ -12,6 +12,7 @@ Guía de Compilación Rápida
         Linux/macOS: g++
         Windows: MinGW o usar g++ desde WSL o MSYS2.
         Tener un archivo fuente, por ejemplo: main.cpp
+        MIRAR EL NOMBRE DEL ARCHIVO EN EL REPOSITORIO Y REEMPLAZAR EL "programa" POR EL NOMBRE.
 
 Linux: 
 # Clonar el repositorio
