@@ -44,20 +44,21 @@ programa.exe
 **Estructura**
 
 taller-buitrago-acero/
-|-----README.md
-|-----docs/
-|    |---- punto1_cajareg.pdf
-|    |---- punto2_descuentocumple.pdf
-|    |---- punto3_caos_descuentos.pdf
-|    |---- punto4_atm.pdf
-|    |---- punto5_app.pdf
-|    |---- punto6_horarios.pdf
-|
-|-------src/
-        |- punto1_cajareg.cpp
-        |- punto2_descuentocumple.cpp
-        |- punto3_caos_descuentos.cpp
-        |- punto4_atm.cpp
-        |- punto5_app.cpp
-        |- punto6_horarios.cpp
+│
+├── README.md
+├── docs/
+│ ├── punto1_cajareg.pdf
+│ ├── punto2_descuentocumple.pdf
+│ ├── punto3_caos_descuentos.pdf
+│ ├── punto4_atm.pdf
+│ ├── punto5_app.pdf
+│ └── punto6_horarios.pdf
+│
+└── src/
+├── punto1_cajareg.cpp
+├── punto2_descuentocumple.cpp
+├── punto3_caos_descuentos.cpp
+├── punto4_atm.cpp
+├── punto5_app.cpp
+└── punto6_horarios.cpp
 
