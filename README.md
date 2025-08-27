@@ -6,7 +6,7 @@ Buitrago Forero Daniel Andres
 Pensamiento algorítimico, 26/08/2025
 
 Guía de Compilación Rápida 
-**Requisitos Previos**
+```**Requisitos Previos**
 -Tener instalado Git
 -Tener instalado un compilador C++:
         Linux/macOS: g++
@@ -40,10 +40,11 @@ g++ -std=c++17 -o "programa".exe main.cpp
 **Ejecutar**
 programa.exe
 
+```
 
 **Estructura**
-
-```taller-buitrago-acero/
+```
+taller-buitrago-acero/
 │
 ├── README.md
 ├── docs/
