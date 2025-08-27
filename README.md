@@ -43,7 +43,7 @@ programa.exe
 
 **Estructura**
 
-taller-buitrago-acero/
+```taller-buitrago-acero/
 │
 ├── README.md
 ├── docs/
